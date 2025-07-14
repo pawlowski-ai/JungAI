@@ -10,7 +10,7 @@ You can either **download and run the application locally** (see instructions be
 
 ## Project Overview
 
-**JungAI** is a specialized AI-powered application designed to provide in-depth dream analysis based on the principles of Carl Gustav Jung’s depth psychology. The app leverages Google’s Gemini LLM (Large Language Model) via a secure API wrapper, offering users nuanced, multi-layered interpretations of their dreams while enforcing strict safety and content moderation protocols.
+**JungAI** is a specialized AI-powered application designed to provide in-depth dream analysis based on the principles of Carl Gustav Jung’s depth psychology. The app leverages Google’s Gemini via a secure API wrapper, offering users nuanced, multi-layered interpretations of their dreams while enforcing strict safety and content moderation protocols.
 
 This project demonstrates advanced skills in AI integration, prompt engineering, and secure application design, with a particular focus on red teaming and abuse prevention.
 
@@ -31,7 +31,6 @@ This project demonstrates advanced skills in AI integration, prompt engineering,
 - **Styling/UI:** Tailwind CSS (or similar utility-first CSS framework)
 - **Build Tooling:** Vite
 - **Type Safety:** TypeScript
-- **State Management:** React hooks and context (if applicable)
 - **Environment Management:** Vite’s environment variable system
 
 ---
@@ -41,7 +40,7 @@ This project demonstrates advanced skills in AI integration, prompt engineering,
 - `react` – UI framework for building interactive interfaces
 - `vite` – Fast build tool and development server
 - `typescript` – Static type checking for robust code
-- (Optionally) `tailwindcss` – Utility-first CSS for rapid UI development
+- `tailwindcss` – Utility-first CSS for rapid UI development
 
 ---
 
