@@ -110,3 +110,9 @@ This project is engineered with a strong security mindset, especially regarding 
 ## Disclaimer
 
 This application is for educational and self-reflection purposes only. It does not provide medical or psychological diagnoses.
+
+---
+
+<p align="center">
+  🔗 Built by <strong>Łukasz Pawłowski</strong> · <a href="https://mozgowiec.substack.com">Substack</a> · <a href="https://www.linkedin.com/in/pawlowski-lukasz">LinkedIn</a>
+</p>
