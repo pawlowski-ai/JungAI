@@ -28,7 +28,7 @@ This project demonstrates advanced skills in AI integration, prompt engineering,
 
 - **Frontend:** React (TypeScript), Vite
 - **AI Integration:** Google Gemini API (via custom service wrapper)
-- **Styling/UI:** Tailwind CSS (or similar utility-first CSS framework)
+- **Styling/UI:** Tailwind CSS
 - **Build Tooling:** Vite
 - **Type Safety:** TypeScript
 - **Environment Management:** Vite’s environment variable system
