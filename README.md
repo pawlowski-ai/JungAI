@@ -4,7 +4,7 @@
 
 You can either **download and run the application locally** (see instructions below), or **test it live** via the hosted version:
 
-[Live Demo](https://jungian-dream-analyzer-ai-907923477304.us-west1.run.app)
+[Live Demo](https://jungian-dream-interpreter-907923477304.us-west1.run.app/)
 
 ---
 
